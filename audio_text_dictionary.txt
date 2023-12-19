@@ -1,0 +1,3 @@
+F:\sesan project\samples\tamilSpeech001.wav: I am a speech001
+F:\sesan project\samples\harvard.wav: I am a harvard
+F:\sesan project\samples\speech002.wav: I am a speech002
