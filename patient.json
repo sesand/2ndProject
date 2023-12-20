@@ -12,9 +12,29 @@
         "head pain",
         "neck pain"
     ],
+    "thanupa irukudhu": [
+        "fever"
+        
+    ],
+    "soodu pudichuruchu": [
+        "body heat",
+        "stomach pain"
+        
+    ],"novudhu": [
+        "body pain",
+        "sick"
+        
+    ],
+    "": [
+        "leg pain",
+        "knee pain"
+        
+    ],
     "kal valikuthu": [
         "leg pain",
         "knee pain"
         
     ]
+        
+    
 }
